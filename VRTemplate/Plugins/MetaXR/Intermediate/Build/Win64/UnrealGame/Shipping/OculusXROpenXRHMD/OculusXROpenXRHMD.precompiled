@@ -1,0 +1,7 @@
+{
+	"OutputFiles": [
+		"..\\..\\..\\x64\\UnrealGame\\Shipping\\OculusXROpenXRHMD\\OculusXRHMDXRFunctions.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Shipping\\OculusXROpenXRHMD\\OculusXROpenXRHMD.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Shipping\\OculusXROpenXRHMD\\OculusXROpenXRHMDPrivate.cpp.obj"
+	]
+}

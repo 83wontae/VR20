@@ -1,0 +1,32 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\work\\vr20\\vrtemplate\\plugins\\metaxr\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\oculusxrhmd\\module.oculusxrhmd.1.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\work\\vr20\\vrtemplate\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\work\\vr20\\vrtemplate\\plugins\\metaxr\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\oculusxrhmd\\definitions.oculusxrhmd.h",
+            "c:\\work\\vr20\\vrtemplate\\plugins\\metaxr\\intermediate\\build\\win64\\unrealeditor\\inc\\oculusxrhmd\\uht\\oculusxreventcomponent.gen.cpp",
+            "c:\\work\\vr20\\vrtemplate\\plugins\\metaxr\\source\\oculusxrhmd\\public\\oculusxreventcomponent.h",
+            "c:\\work\\vr20\\vrtemplate\\plugins\\metaxr\\intermediate\\build\\win64\\unrealeditor\\inc\\oculusxrhmd\\uht\\oculusxreventcomponent.generated.h",
+            "c:\\work\\vr20\\vrtemplate\\plugins\\metaxr\\intermediate\\build\\win64\\unrealeditor\\inc\\oculusxrhmd\\uht\\oculusxrfunctionlibrary.gen.cpp",
+            "c:\\work\\vr20\\vrtemplate\\plugins\\metaxr\\source\\oculusxrhmd\\public\\oculusxrfunctionlibrary.h",
+            "c:\\work\\vr20\\vrtemplate\\plugins\\metaxr\\source\\oculusxrhmd\\public\\oculusxrhmdtypes.h",
+            "c:\\work\\vr20\\vrtemplate\\plugins\\metaxr\\intermediate\\build\\win64\\unrealeditor\\inc\\oculusxrhmd\\uht\\oculusxrhmdtypes.generated.h",
+            "c:\\work\\vr20\\vrtemplate\\plugins\\metaxr\\source\\oculusxrhmd\\public\\ioculusxrhmdmodule.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\headmounteddisplay\\public\\iheadmounteddisplaymodule.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\headmounteddisplay\\public\\headmounteddisplaytypes.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\headmounteddisplay\\public\\imotioncontroller.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\headmounteddisplay\\uht\\imotioncontroller.generated.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\headmounteddisplay\\uht\\headmounteddisplaytypes.generated.h",
+            "c:\\work\\vr20\\vrtemplate\\plugins\\metaxr\\intermediate\\build\\win64\\unrealeditor\\inc\\oculusxrhmd\\uht\\oculusxrfunctionlibrary.generated.h",
+            "c:\\work\\vr20\\vrtemplate\\plugins\\metaxr\\intermediate\\build\\win64\\unrealeditor\\inc\\oculusxrhmd\\uht\\oculusxrhmd.init.gen.cpp",
+            "c:\\work\\vr20\\vrtemplate\\plugins\\metaxr\\intermediate\\build\\win64\\unrealeditor\\inc\\oculusxrhmd\\uht\\oculusxrhmdruntimesettings.gen.cpp",
+            "c:\\work\\vr20\\vrtemplate\\plugins\\metaxr\\source\\oculusxrhmd\\public\\oculusxrhmdruntimesettings.h",
+            "c:\\work\\vr20\\vrtemplate\\plugins\\metaxr\\intermediate\\build\\win64\\unrealeditor\\inc\\oculusxrhmd\\uht\\oculusxrhmdruntimesettings.generated.h",
+            "c:\\work\\vr20\\vrtemplate\\plugins\\metaxr\\intermediate\\build\\win64\\unrealeditor\\inc\\oculusxrhmd\\uht\\oculusxrhmdtypes.gen.cpp"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

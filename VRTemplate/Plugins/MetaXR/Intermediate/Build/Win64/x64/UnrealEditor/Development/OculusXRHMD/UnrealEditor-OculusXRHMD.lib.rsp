@@ -1,0 +1,14 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-OculusXRHMD.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Work\VR20\VRTemplate\Intermediate\Build\Win64\x64\UnrealEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
+"C:\Work\VR20\VRTemplate\Plugins\MetaXR\Intermediate\Build\Win64\x64\UnrealEditor\Development\OculusXRHMD\Module.OculusXRHMD.1.cpp.obj"
+"C:\Work\VR20\VRTemplate\Plugins\MetaXR\Intermediate\Build\Win64\x64\UnrealEditor\Development\OculusXRHMD\Module.OculusXRHMD.2.cpp.obj"
+"C:\Work\VR20\VRTemplate\Plugins\MetaXR\Intermediate\Build\Win64\x64\UnrealEditor\Development\OculusXRHMD\Module.OculusXRHMD.3.cpp.obj"
+"C:\Work\VR20\VRTemplate\Plugins\MetaXR\Intermediate\Build\Win64\x64\UnrealEditor\Development\OculusXRHMD\Default.rc2.res"
+/OUT:"C:\Work\VR20\VRTemplate\Plugins\MetaXR\Intermediate\Build\Win64\x64\UnrealEditor\Development\OculusXRHMD\UnrealEditor-OculusXRHMD.lib"

@@ -1,0 +1,54 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.OculusXRHMD.1.cpp.obj": [
+			"OculusXREventComponent.gen.cpp.obj",
+			"OculusXRFunctionLibrary.gen.cpp.obj",
+			"OculusXRHMD.init.gen.cpp.obj",
+			"OculusXRHMDRuntimeSettings.gen.cpp.obj",
+			"OculusXRHMDTypes.gen.cpp.obj"
+		],
+		"Module.OculusXRHMD.2.cpp.obj": [
+			"OculusXRPassthroughLayerShapes.gen.cpp.obj",
+			"OculusXRResourceHolder.gen.cpp.obj",
+			"OculusXRSceneCaptureCubemap.gen.cpp.obj",
+			"OculusXRTelemetryPrivacySettings.gen.cpp.obj",
+			"OculusXRAssetManager.cpp.obj",
+			"OculusXRDelegates.cpp.obj",
+			"OculusXREventComponent.cpp.obj",
+			"OculusXRFunctionLibrary.cpp.obj",
+			"OculusXRFunctionLibraryOpenXR.cpp.obj",
+			"OculusXRFunctionLibraryOVR.cpp.obj",
+			"OculusXRHMD.cpp.obj",
+			"OculusXRHMDModule.cpp.obj",
+			"OculusXRHMDPrivate.cpp.obj",
+			"OculusXRHMDRuntimeSettings.cpp.obj",
+			"OculusXRHMD_ConsoleCommands.cpp.obj",
+			"OculusXRHMD_CustomPresent.cpp.obj",
+			"OculusXRHMD_CustomPresent_D3D11.cpp.obj",
+			"OculusXRHMD_CustomPresent_D3D12.cpp.obj",
+			"OculusXRHMD_CustomPresent_Vulkan.cpp.obj",
+			"OculusXRHMD_DeferredDeletionQueue.cpp.obj",
+			"OculusXRHMD_DynamicResolutionState.cpp.obj",
+			"OculusXRHMD_FoveatedRendering.cpp.obj",
+			"OculusXRHMD_GameFrame.cpp.obj",
+			"OculusXRHMD_Layer.cpp.obj"
+		],
+		"Module.OculusXRHMD.3.cpp.obj": [
+			"OculusXRHMD_Settings.cpp.obj",
+			"OculusXRHMD_SpectatorScreenController.cpp.obj",
+			"OculusXRHMD_Splash.cpp.obj",
+			"OculusXRHMD_StressTester.cpp.obj",
+			"OculusXRHMD_VulkanExtensions.cpp.obj",
+			"OculusXRPassthroughLayerShapes.cpp.obj",
+			"OculusXRPluginWrapper.cpp.obj",
+			"OculusXRQPL.cpp.obj",
+			"OculusXRResourceHolder.cpp.obj",
+			"OculusXRSceneCaptureCubemap.cpp.obj",
+			"OculusXRSimulator.cpp.obj",
+			"OculusXRSyntheticEnvironmentServer.cpp.obj",
+			"OculusXRTelemetry.cpp.obj",
+			"OculusXRTelemetryPrivacySettings.cpp.obj"
+		]
+	}
+}

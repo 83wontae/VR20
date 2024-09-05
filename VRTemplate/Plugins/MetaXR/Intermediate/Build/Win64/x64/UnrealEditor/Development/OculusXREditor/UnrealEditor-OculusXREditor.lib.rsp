@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-OculusXREditor.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Work\VR20\VRTemplate\Intermediate\Build\Win64\x64\UnrealEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
+"C:\Work\VR20\VRTemplate\Plugins\MetaXR\Intermediate\Build\Win64\x64\UnrealEditor\Development\OculusXREditor\Module.OculusXREditor.cpp.obj"
+"C:\Work\VR20\VRTemplate\Plugins\MetaXR\Intermediate\Build\Win64\x64\UnrealEditor\Development\OculusXREditor\Default.rc2.res"
+/OUT:"C:\Work\VR20\VRTemplate\Plugins\MetaXR\Intermediate\Build\Win64\x64\UnrealEditor\Development\OculusXREditor\UnrealEditor-OculusXREditor.lib"

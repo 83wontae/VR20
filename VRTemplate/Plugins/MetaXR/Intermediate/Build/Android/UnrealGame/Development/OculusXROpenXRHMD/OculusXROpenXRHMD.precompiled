@@ -1,0 +1,16 @@
+{
+	"OutputFiles": [
+		"..\\..\\..\\a\\UnrealGame\\Development\\OculusXROpenXRHMD\\OculusXRHMDXRFunctions.cpp.o",
+		"..\\..\\..\\a\\UnrealGame\\Development\\OculusXROpenXRHMD\\OculusXROpenXRHMD.cpp.o",
+		"..\\..\\..\\a\\UnrealGame\\Development\\OculusXROpenXRHMD\\OculusXROpenXRHMDPrivate.cpp.o",
+		"..\\..\\..\\a\\UnrealGame\\Development\\OculusXROpenXRHMD\\OculusXRHMDXRFunctions.cpp.o",
+		"..\\..\\..\\a\\UnrealGame\\Development\\OculusXROpenXRHMD\\OculusXROpenXRHMD.cpp.o",
+		"..\\..\\..\\a\\UnrealGame\\Development\\OculusXROpenXRHMD\\OculusXROpenXRHMDPrivate.cpp.o",
+		"..\\..\\..\\x\\UnrealGame\\Development\\OculusXROpenXRHMD\\OculusXRHMDXRFunctions.cpp.o",
+		"..\\..\\..\\x\\UnrealGame\\Development\\OculusXROpenXRHMD\\OculusXROpenXRHMD.cpp.o",
+		"..\\..\\..\\x\\UnrealGame\\Development\\OculusXROpenXRHMD\\OculusXROpenXRHMDPrivate.cpp.o",
+		"..\\..\\..\\x\\UnrealGame\\Development\\OculusXROpenXRHMD\\OculusXRHMDXRFunctions.cpp.o",
+		"..\\..\\..\\x\\UnrealGame\\Development\\OculusXROpenXRHMD\\OculusXROpenXRHMD.cpp.o",
+		"..\\..\\..\\x\\UnrealGame\\Development\\OculusXROpenXRHMD\\OculusXROpenXRHMDPrivate.cpp.o"
+	]
+}

@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-OculusXRMR.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Work\VR20\VRTemplate\Intermediate\Build\Win64\x64\UnrealEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
+"C:\Work\VR20\VRTemplate\Plugins\MetaXR\Intermediate\Build\Win64\x64\UnrealEditor\Development\OculusXRMR\Module.OculusXRMR.cpp.obj"
+"C:\Work\VR20\VRTemplate\Plugins\MetaXR\Intermediate\Build\Win64\x64\UnrealEditor\Development\OculusXRMR\Default.rc2.res"
+/OUT:"C:\Work\VR20\VRTemplate\Plugins\MetaXR\Intermediate\Build\Win64\x64\UnrealEditor\Development\OculusXRMR\UnrealEditor-OculusXRMR.lib"

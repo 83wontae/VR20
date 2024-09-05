@@ -1,0 +1,28 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.OculusXRMovement.cpp.obj": [
+			"LiveLinkOculusXRMovementSourceFactory.gen.cpp.obj",
+			"OculusXRBodyTrackingComponent.gen.cpp.obj",
+			"OculusXREyeTrackingComponent.gen.cpp.obj",
+			"OculusXRFaceTrackingComponent.gen.cpp.obj",
+			"OculusXRLiveLinkRetargetBodyAsset.gen.cpp.obj",
+			"OculusXRLiveLinkRetargetFaceAsset.gen.cpp.obj",
+			"OculusXRMovement.init.gen.cpp.obj",
+			"OculusXRMovementFunctionLibrary.gen.cpp.obj",
+			"OculusXRMovementTypes.gen.cpp.obj",
+			"LiveLinkOculusXRMovementSourceFactory.cpp.obj",
+			"OculusXRBodyTrackingComponent.cpp.obj",
+			"OculusXREyeTrackingComponent.cpp.obj",
+			"OculusXRFaceTrackingComponent.cpp.obj",
+			"OculusXRLiveLinkRetargetBodyAsset.cpp.obj",
+			"OculusXRLiveLinkRetargetFaceAsset.cpp.obj",
+			"OculusXRMorphTargetsController.cpp.obj",
+			"OculusXRMovement.cpp.obj",
+			"OculusXRMovementFunctionLibrary.cpp.obj",
+			"OculusXRMovementLiveLink.cpp.obj",
+			"OculusXRMovementModule.cpp.obj",
+			"OculusXRMovementTypes.cpp.obj"
+		]
+	}
+}
